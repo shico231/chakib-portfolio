@@ -1,10 +1,12 @@
+## 🚀 Live Demo
+
+**Website:** [(https://shico231.github.io/chakib-portfolio/)](https://shico231.github.io/portfolio-website/)
+
 # Personal Portfolio Website
 
 A modern, responsive personal portfolio website showcasing professional information, skills, and contact details. Built with vanilla HTML, CSS, and JavaScript featuring contemporary design elements including glassmorphism effects, smooth animations, and responsive layouts.
 
-## 🚀 Live Demo
 
-**Website:** [(https://shico231.github.io/chakib-portfolio/)](https://shico231.github.io/portfolio-website/)
 
 ## 📋 Table of Contents
 
