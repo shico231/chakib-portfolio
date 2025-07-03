@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing professional informat
 
 ## 🚀 Live Demo
 
-**Website:** (https://shico231.github.io/chakib-portfolio/)
+**Website:** [(https://shico231.github.io/chakib-portfolio/)](https://shico231.github.io/portfolio-website/)
 
 ## 📋 Table of Contents
 
